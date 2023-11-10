@@ -11,7 +11,7 @@
 * [Twitter](https://twitter.com/calebkech)
 * [Email](mailto:calebkemboi61@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/calebkech/github-readme-stats)
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
@@ -22,7 +22,7 @@
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebkech&show_icons=true&theme=radical)
 
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
